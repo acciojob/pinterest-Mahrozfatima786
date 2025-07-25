@@ -2,7 +2,7 @@
 .main{
 	display: flex;
 }
-.img{
+img{
 	padding-right: 15px;
 	object-fit: cover
 }
