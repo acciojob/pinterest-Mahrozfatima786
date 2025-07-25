@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.main{
+	display: flex;
+}
+.img{
+	padding-right: 15px;
+	object-fit: cover
+}
+button{
+	background-color:red;
+	color: white;
+	border: none;
+	border-radius: 5%
+}
